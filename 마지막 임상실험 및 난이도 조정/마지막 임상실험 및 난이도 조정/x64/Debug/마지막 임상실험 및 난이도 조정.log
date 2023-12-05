@@ -1,0 +1,8 @@
+﻿  마지막 임상실험 및 난이도 조정.cpp
+C:\Users\cjm52\source\repos\마지막 임상실험 및 난이도 조정\마지막 임상실험 및 난이도 조정\마지막 임상실험 및 난이도 조정.cpp(51,30): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\cjm52\source\repos\마지막 임상실험 및 난이도 조정\마지막 임상실험 및 난이도 조정\마지막 임상실험 및 난이도 조정.cpp(51,33): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\cjm52\source\repos\마지막 임상실험 및 난이도 조정\마지막 임상실험 및 난이도 조정\마지막 임상실험 및 난이도 조정.cpp(53,75): warning C4267: '인수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cjm52\source\repos\마지막 임상실험 및 난이도 조정\마지막 임상실험 및 난이도 조정\마지막 임상실험 및 난이도 조정.cpp(194,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cjm52\source\repos\마지막 임상실험 및 난이도 조정\마지막 임상실험 및 난이도 조정\마지막 임상실험 및 난이도 조정.cpp(1347,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\cjm52\source\repos\마지막 임상실험 및 난이도 조정\마지막 임상실험 및 난이도 조정\마지막 임상실험 및 난이도 조정.cpp(1347,22): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  마지막 임상실험 및 난이도 조정.vcxproj -> C:\Users\cjm52\source\repos\마지막 임상실험 및 난이도 조정\x64\Debug\마지막 임상실험 및 난이도 조정.exe
